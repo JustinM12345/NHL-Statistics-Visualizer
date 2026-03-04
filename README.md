@@ -1,4 +1,4 @@
-# NHL Statistics Visualizer Playoff Risers VS Fallers
+# NHL Statistics Visualizer - Playoff Risers VS Fallers
 ### Created by Justin and Joel
 
 ## Walkthrough Video
